@@ -209,7 +209,7 @@ class _HomePageState extends ConsumerState<HomePage> {
       final decodedBytes = base64.decode(base64String);
       return GestureDetector(
         onTap: () {
-          print("Selected Movie:${movie.name}");
+          
           Navigator.push(
             context,
             MaterialPageRoute(
@@ -230,7 +230,7 @@ class _HomePageState extends ConsumerState<HomePage> {
     } else {
       return GestureDetector(
         onTap: () {
-          print("Selected Movie:${movie.name}");
+         
           Navigator.push(
             context,
             MaterialPageRoute(
