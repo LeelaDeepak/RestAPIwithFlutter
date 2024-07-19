@@ -16,7 +16,6 @@ class _ViewTheMovieState extends State<ViewTheMovie> {
 
   // ignore: prefer_typing_uninitialized_variables
   late var imgBytes;
-  // Define the maximum rating and the number of stars to display
 
   @override
   void initState() {
