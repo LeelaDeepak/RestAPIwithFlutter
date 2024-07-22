@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:movizplaza/movieModel.dart';
 
 const String baseUrl =
-    "https://firebasestorage.googleapis.com/v0/b/friendsbirthdayapp.appspot.com/o/db.json?alt=media&token=969dfd53-1143-4f7a-801c-29709e8577ee";
+    "https://firebasestorage.googleapis.com/v0/b/friendsbirthdayapp.appspot.com/o/db.json?alt=media&token=8b96c808-bf2f-4e5b-a59c-b70e4dadc5b4";
 
 const String logoUrl = "https://firebasestorage.googleapis.com/v0/b/friendsbirthdayapp.appspot.com/o/BrandAssets_Logos_01-Wordmark.jpg?alt=media&token=7812177c-b03d-488a-ad9c-a946998a51e8";
 const String anotherLogo = "https://firebasestorage.googleapis.com/v0/b/friendsbirthdayapp.appspot.com/o/download.png?alt=media&token=ac4f01d4-b651-4f6f-86fa-e14d368aaa87";
