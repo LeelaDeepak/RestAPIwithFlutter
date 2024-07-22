@@ -188,10 +188,6 @@ class _ViewTheMovieState extends State<ViewTheMovie> {
     );
   }
 
-  // Widget _buildRatingStars(num rating) {
-  //   return
-  // }
-
   Widget _buildGenreChips(
     List<String> genres,
     String selectedGenre,
